@@ -1,0 +1,32 @@
+Bagian 1
+npm init
+npm install
+( deskripsi : deskripsi apa saja
+entry point : app.js
+keywords : whatsapp-api, node.js
+author: patur
+license : MIT
+
+npm i whatsapp-web.js
+npm i qrcode-terminal
+
+Bagian 2 whatsapp bot
+
+npm install express
+
+npm install socket.io 
+
+npm install qrcode 
+
+npm install -g nodemon
+
+setelah itu
+npm i http
+
+
+Bagian 3
+npm i express-validator
+
+send media
+npm i express-fileupload
+npm i axios

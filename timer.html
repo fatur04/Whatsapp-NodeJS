@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Timer</title>
+</head>
+<body>
+	<h1>Kirim Pesan Whatsapp</h1>
+	<div class="container">
+		<form action="/send-message" method="post">
+			<div class="col-md-4">
+				<label>Nomer WA</label>
+				<input type="number" name="number" value="087870511660">
+			</div><br>
+			<div class="col-md-4">
+				<label>Isi Pesan</label>
+				<input type="text" name="message" value="Selamat dan sukses">
+			</div><br>
+			<button>Submit</button>
+		</form>
+	</div>
+	<br><br><br>
+	<script>
+		document.getElementsByTagName('form')[0].submit()
+	</script>
+</body>
+</html>
