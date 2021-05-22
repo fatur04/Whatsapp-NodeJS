@@ -1,4 +1,4 @@
-#Whatsapp-NodeJS
+Whatsapp-NodeJS
 
 How to use?
 
